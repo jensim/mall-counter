@@ -43,6 +43,10 @@ The goal for a project of these ideas are the following
 
 
 # In practice
+<a href="docs/scan barcode.svg">
+  <img src="docs/scan barcode.svg" width="250" />
+</a>
+
 ## Customer perspective
 * Customer arives at store
 * Attendant scanns a sticker with a random/sequence barcode on it  
