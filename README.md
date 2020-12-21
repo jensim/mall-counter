@@ -16,9 +16,47 @@ The goal for a project of these ideas are the following
 * one-time-password links to create stores, send to store-owners in mall
   * one-time-password links to create attendee accounts
 * admin pages
+  * Manage number of allowed customers in total in the mall
   * [stretch] each level in the hierarchy can manage invite new users to it's own level in the store-hierarchy
   * [stretch] only users above another may delete/revoke another
   * [stretch] reverse tree-view of who invited who
   * [stretch] tree view of users and and number of invites made
   * [stretch] tree-revoke users, in case unauthorized users manage to get a hold of a account
-  * 
+* Time customer
+* Limit number of stores
+* Anonumus enter
+* Anonumus exit
+* Work with any bar code or QR
+* Guest feaures
+  * queue system
+    * [stretch] Queue outside store feature that allows people to spread out over greater area or do other chores "in line"  
+    Also a thing for queue to shops inside the mall
+      * Place in line
+      * Guess time based on
+      * Exit line
+      * Push notification
+  * List all shops and length of queue 
+* Conserve battery on phones
+  * Dark mode by default
+  * ? photo mode > video mode scanner  
+    Might not be quick enough!
+
+
+# In practice
+## Customer perspective
+* Customer arives at store
+* Attendant scanns a sticker with a random/sequence barcode on it  
+and hands it to the customer with instructions to wear it visibly, it is mandatory to enter any butique or be served at café.
+* At each store, there may be a queue, each entered customer may stand in one line, by scanning his/her code with the store attendee or mounted device  
+or by entering the queue with the guest page
+* Warn consumer when time is soon up
+
+## Attendant perspective
+* Get link sent by store owner
+* or scan coworkers qr-share-link
+* Next customer in line comes 
+* Scan
+* Give barcode 
+* Inform
+* Smile & wish a merry pandemic
+* Repeat
