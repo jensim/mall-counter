@@ -51,6 +51,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect width="100%" height="100%" fill="white" />
     <rect
        style="opacity:1;fill:#0000ff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:6.86267;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.686267, 0.686267;stroke-dashoffset:8.23522;stroke-opacity:1"
        id="rect10"
